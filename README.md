@@ -10,3 +10,5 @@ Para acessar o código referente às aulas, clique no seletor `main` do reposit�
 
 ## Notas e créditos
 Feito por Fernanda Helena, aluna do Alura.
+
+https://github.dev/FernandaHelena/Aluraflixx/tree/main
